@@ -33,6 +33,8 @@ Key features of A2A include:
 - [Announcement Blog Post](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) – Google's introduction to A2A.
 - [GitHub Repository](https://github.com/a2aproject/A2A) – Source code, spec, and official samples.
 - [Official Documentation](https://a2aproject.github.io/A2A) – Detailed technical reference and examples.
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 
 ## Table of Contents
